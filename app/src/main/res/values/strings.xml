@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectUKL1</string>
+    <string name="dataLogin">Data Login Diterima</string>
+    <string name="grid">grid</string>
+    <string name="with_cardview">cardView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
